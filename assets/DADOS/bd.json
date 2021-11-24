@@ -1,0 +1,345 @@
+[
+    {
+        "id": 0,
+        "tabela":"irrigacao",
+        "nome": "Kit de Irrigação Gotejamento +Horta – 500 M²- NAANDANJAIN",
+        "tipo": "KIT HORTICULTURA",
+        "img": "kit_horta_1-300x300.jpg",
+        "imgSm": {
+            "0": "kit_horta_1-300x300.jpg",
+            "1": "folder-kit_horta-600x767.jpg",
+            "2": "conte_do_kit_horta_gotejamento.png",
+            "3": "montagem_kit_horta_-_500m_1.png"
+        },
+        "preco": 899.00
+    },
+    {
+        "id": 1,
+        "tabela":"irrigacao",
+        "nome": "Kit Aspersor Iwob UP3 com Regulador 10 PSI",
+        "tipo": "ASPERSORES",
+        "img": "86-300x300.png",
+        "imgSm": {
+            "0": "86-300x300.png",
+            "1": "63.png",
+            "2": "79.png",
+            "3": "82-600x397.png"
+        },
+        "preco": 108.00
+    },
+    {
+        "id": 2,
+        "tabela":"irrigacao",
+        "nome": "Regulador de Pressão 15psi 3/4 SENNINGER",
+        "tipo": "PEÇAS PARA PIVÔ",
+        "img": "psr2-model-image.jpg",
+        "preco": 29.99
+    },
+    {
+        "id": 3,
+        "tabela":"irrigacao",
+        "nome": "Filtro Y Plástico de Disco 2 polegadas 120mesh",
+        "tipo": "FILTROS",
+        "img": "irritec-2pol-300x300.png",
+        "preco": 150.30
+    },
+    {
+        "id": 4,
+        "tabela":"irrigacao",
+        "nome": "Caixa para Válvula Solenoide 10 polegadas",
+        "tipo": "CAIXA DE VALVULAS",
+        "img": "caixa-de-valvula10pol-300x300.jpg",
+        "imgSm": {
+            "0": "caixa-de-valvula10pol-300x300.jpg",
+            "1": "caixa-de-valvula10pol2.jpg"
+        },
+        "preco": 114.40
+    },
+    {
+        "id": 5,
+        "tabela":"irrigacao",
+        "nome": "Mangueira Gotejadora D900 16mm 2.2l/h 20cm",
+        "tipo": "GOTEJAMENTO",
+        "img": "09-300x300.png",
+        "imgSm": {
+            "0": "09-300x300.png",
+            "1": "d900_front_features.jpg",
+            "2": "d900_waterflow_por-768x90-1.jpg",
+            "3": "images.jpg"
+        },
+        "preco": 300.00
+    },
+    {
+        "id": 6,
+        "tabela":"irrigacao",
+        "nome": "Kit Aspersor &#8211; RAIN BIRD",
+        "tipo": "PEÇAS PARA PIVO",
+        "img": "kit-aspersor-2-scaled-1-300x300.jpg",
+        "preco": 64.50
+    },
+    {
+        "id": 7,
+        "tabela":"irrigacao",
+        "nome": "Valvula Solenoide 1/8 Polegadas 3v 24vac",
+        "tipo": "VALVULAS SOLENÓIDES",
+        "img": "IMG_7529-300x300.jpg",
+        "preco": 189.00
+    },
+    {
+        "id": 8,
+        "tabela":"irrigacao",
+        "nome": "Válvula Elétrica Solenoide 2 Polegadas DV",
+        "tipo": "VALVULAS SOLENÓIDES",
+        "img": "9042fd39ed-300x300.jpg",
+        "preco": 808.40
+    },
+    {
+        "id": 9,
+        "tabela":"irrigacao",
+        "nome": "Kit Aspersor Super Spray com regulador 15 PSI",
+        "tipo": "PEÇAS PARA PIVÔ",
+        "img": "85-300x300.png",
+        "preco": 39.90
+    },
+    {
+        "id": 10,
+        "tabela":"bombadagua",
+        "nome": "Motobomba Submersa 4&#8243; R95",
+        "tipo": "BOMBAS SUBMERSAS",
+        "img": "bombeador-motor-300x300.jpg",
+        "preco": 2118.00
+    },
+    {
+        "id": 11,
+        "tabela":"bombadagua",
+        "nome": "Bombeador 4bpl3-08 Estágios 1,0cv 4&#8243;",
+        "tipo": "BOMBEADOR",
+        "img": "1032117_bombeador-submerso-ebara-4-4bps5f-18-sem-motor-4001001003859_z1_637602190442930321-300x300.jpg",
+        "preco": 563.00
+    },
+    {
+        "id": 12,
+        "tabela":"bombadagua",
+        "nome": "Motobomba Submersa 4&#8243; Trifásica 220v 1.0cv",
+        "tipo": "BOMBAS SUBMERSAS",
+        "img": "bombeador-motor-1-300x300.jpg",
+        "preco": 1499.00
+    },
+    {
+        "id": 13,
+        "tabela":"bombadagua",
+        "nome": "Bombeador 4&#8243; R95-ST4-19 para 3.0cv (sem motor)",
+        "tipo": "BOMBAS SUBMERSAS",
+        "img": "bombeador-padrao-1-300x300.jpg",
+        "preco": 858.00
+    },
+    {
+        "id": 14,
+        "tabela":"bombadagua",
+        "nome": "Motobomba Submersa 4&#8243; R95",
+        "tipo": "BOMBAS SUBMERSAS",
+        "img": "14-300x300.png",
+        "preco": 2118.00
+    },
+    {
+        "id": 15,
+        "tabela":"bombadagua",
+        "nome": "Motobomba C3000 Monofásica 110/220v &#8211; KSB",
+        "tipo": "BOMBAS CENTRIFUGAS",
+        "img": "C2000-300x300.jpg",
+        "preco": 1900.00
+    },
+    {
+        "id": 16,
+        "tabela":"bombadagua",
+        "nome": "Motor Submerso 4 polegadas Trifásico 380v 1.0cv &#8211; TETIS",
+        "tipo": "MOTOR TRIFÁSICO 380v",
+        "img": "14-300x300.png",
+        "preco": 822.00
+    },
+    {
+        "id": 17,
+        "tabela":"bombadagua",
+        "nome": "Motor Submerso 4 polegadas Trifásico 380v 1.5cv &#8211; TETIS",
+        "tipo": "MOTOR TRIFÁSICO 380v",
+        "img": "14-300x300.png",
+        "preco": 703.00
+    },
+    {
+        "id": 18,
+        "tabela":"bombadagua",
+        "nome": "Motor Submerso 4&#8243; Monofásico 220v 0.5cv &#8211; TETIS",
+        "tipo": "MOTOR MONOFÁSICO 220v",
+        "img": "14-300x300.png",
+        "preco": 1115.00
+    },
+    {
+        "id": 19,
+        "tabela":"bombadagua",
+        "nome": "Motor Submerso 4 Polegadas Monofásico 220v 2cv",
+        "tipo": "MOTOR MONOFÁSICO 220v",
+        "img": "14-300x300.png",
+        "preco": 1900.00
+    },
+    {
+        "id": 20,
+        "tabela":"bombadagua",
+        "nome": "Bomba Submersa com Chave 0.75cv 110v 3SD-13 &#8211; TETIS",
+        "tipo": "BOMBA SUBMERSA COM CHAVE",
+        "img": "50-300x300.png",
+        "preco": 1185.00
+    },
+    {
+        "id": 21,
+        "tabela":"destaque",
+        "nome": "Bomba Solar 1500w DC com Controlador MPPT – TÉTIS",
+        "tipo": "MOTOBOMBAS SOLARES",
+        "img": "1500w-300x300.jpg",
+        "imgSm": {
+            "0": "1500w-300x300.jpg",
+            "1": "photo_2021-05-17_15-24-15.jpg",
+            "2": "1300w-e-1500w-com-6-modulos.jpeg",
+            "3": "D_NQ_NP_2X_967851-MLB44585691711_012021-F.png"
+        },
+        "preco": 3235.00
+    },
+    {
+        "id": 22,
+        "tabela":"destaque",
+        "nome": "Bomba Solar 1500w DC com Controlador MPPT – TÉTIS",
+        "tipo": "MOTOBOMBAS SOLARES, TODOS",
+        "img": "270w-bomba-solar-300x300.jpg",
+        "preco": 2890.00
+    },
+    {
+        "id": 23,
+        "tabela":"destaque",
+        "nome": "Kit Bomba Solar 270w DC com 2 Módulos Solares (19.440",
+        "tipo": "KITS SOLARES",
+        "img": "270w-controlador-2paineis-Recuperado-300x300.jpg",
+        "preco": 4654.10
+    },
+    {
+        "id": 24,
+        "tabela":"recente",
+        "nome": "Bomba Solar 1500w DC com Controlador MPPT – TÉTIS",
+        "tipo": "MOTOBOMBAS SOLARES",
+        "img": "1500w-300x300.jpg",
+        "preco": 3235.00
+    },
+    {
+        "id": 25,
+        "tabela":"recente",
+        "nome": "Quadro de Comando Magna IP65 500x400x175 FAMATEL",
+        "tipo": "CAIXA DE MONTAGEM",
+        "img": "39134-300x300.jpg",
+        "preco": 545.00
+    },
+    {
+        "id": 26,
+        "tabela":"recente",
+        "nome": "Quadro de Comando Magna IP65 400x300x165",
+        "tipo": "CAIXA DE MONTAGEM",
+        "img": "39134-300x300.jpg",
+        "preco": 350.00
+    },
+    {
+        "id": 27,
+        "tabela":"produtoDestaque",
+        "nome": "Kit de Irrigação Gotejamento +Horta - 500 M²- NAANDANJAIN",
+        "img": "kit_horta_1-300x300.jpg",
+        "imgSm": {
+            "0": "kit_horta_1-300x300.jpg",
+            "1": "folder-kit_horta-600x767.jpg",
+            "2": "conte_do_kit_horta_gotejamento.png",
+            "3": "montagem_kit_horta_-_500m_1.png"
+        },
+        "preco": 1199.00,
+        "desconto": 899.00
+    },
+    {
+        "id": 28,
+        "tabela":"produtoDestaque",
+        "nome": "Eletrificador de Cerca Automática LB50 220v - ZEBU",
+        "img": "2019-LB50-1-300x300.jpg",
+        "preco": 299.00,
+        "desconto": null
+    },
+    {
+        "id": 29,
+        "tabela":"produtoDestaque",
+        "nome": "Inversor Solar Off-Grid - 1000w / 24vdc / 220vac / 60hz - TETIS",
+        "img": "1000w-frente-300x300.jpg",
+        "preco": 1399.00,
+        "desconto": 1199.00
+    },
+    {
+        "id": 30,
+        "tabela":"produtoOnsale",
+        "nome": "Bomba Solar com Controlador 1500w MPPT DC - TÉTIS",
+        "img": "1500w-600x600.jpg",
+        "preco": 3599.00,
+        "desconto": 3299.00
+    },
+    {
+        "id": 31,
+        "tabela":"produtoOnsale",
+        "nome": "Kit de Irrigação Gotejamento +Horta - 500 M²- NAANDANJAIN",
+        "img": "kit_horta_1-300x300.jpg",
+        "imgSm": {
+            "0": "kit_horta_1-300x300.jpg",
+            "1": "folder-kit_horta-600x767.jpg",
+            "2": "conte_do_kit_horta_gotejamento.png",
+            "3": "montagem_kit_horta_-_500m_1.png"
+        },
+        "preco": 1199.00,
+        "desconto": 899.00
+    },
+    {
+        "id": 32,
+        "tabela":"produtoOnsale",
+        "nome": "Bateria Estacionária Solar 12MS111 (105ah) - MOURA",
+        "img": "12ms234-300x300.jpg",
+        "imgSm": {
+            "0": "12ms234-300x300.jpg",
+            "1": "bateria_estacionaria_moura_solar.jpg"
+        },
+        "preco": 1199.00,
+        "desconto": 999.00
+    },
+    {
+        "id": 33,
+        "tabela":"produtoClassificacao",
+        "nome": "Bucha de Redução Galvanizada 1.1/4\"X1\" BERTON",
+        "img": "bucha-de-reducao-1-300x300.jpg",
+        "preco": 15.55,
+        "desconto": null
+    },
+    {
+        "id": 34,
+        "tabela":"produtoClassificacao",
+        "nome": "Curva PVC Soldável para Irrigação 75mm X 45° - AMANCO",
+        "img": "14647170932230-600x600.jpg",
+        "preco": 26.00,
+        "desconto": null
+    },
+    {
+        "id": 35,
+        "tabela":"produtoClassificacao",
+        "nome": "Mini Disjuntor 3 Polos 25 amperes LK-25 - LUKMA",
+        "img": "mini-disjuntor-din-lk-25-tripolar-25a-3ka-curva-c-D_NQ_NP_889386-MLB26896418685_022018-F-300x300.jpg",
+        "preco": 42.00,
+        "desconto": null
+    },
+    {
+        "id": 0,
+        "tabela":"promocao",
+        "nome": "Motobomba Solar Submersa DC 3 polegadas 210w -TÉTIS",
+        "tipo": "MOTOBOMBAS SOLARES",
+        "img": "210w-controlador-min-300x300.png",
+        "estoque": 10,
+        "vendido": 0,
+        "preco": 2785.00,
+        "desconto": 2399.00
+    }
+]

@@ -1,0 +1,222 @@
+@charset "UTF-8";
+@import url("./resertar.css");
+@import url("./header.css");
+@import url("./marcas.css");
+@import url("./recomendados.css");
+@import url("./footer.css");
+
+.diretorio {
+  width: 100%;
+  height: 65px;
+
+  .diretorio-mw {
+    max-width: 1270px;
+    width: 87.5%;
+    height: 100%;
+    overflow-x: auto;
+
+    @media screen and (min-width: 960px) and (max-width: 1200px) {
+      & {
+        width: 950px;
+      }
+    }
+    @media screen and (max-width: 960px) {
+      & {
+        width: 100%;
+        padding: 0 10px;
+      }
+    }
+    p {
+      white-space: nowrap;
+      color: #333e48;
+      font-size: 0.9rem;
+
+      i {
+        margin: 0 12.5px;
+        font-size: 0.8rem;
+      }
+      button {
+        padding: 10px;
+        border: 0;
+        background-color: #e5e5e5;
+        border-radius: 5px;
+        cursor: pointer;
+
+        &:hover {
+          background-color: #d1d0d0;
+        }
+      }
+      a {
+        color: #333e48;
+        font-size: 0.9rem;
+      }
+    }
+  }
+}
+.page {
+  width: 100%;
+  height: auto;
+
+  .page-mw {
+    max-width: 1430px;
+    width: 87.5%;
+    height: 100%;
+    flex-wrap: wrap;
+    @media screen and (min-width: 960px) and (max-width: 1200px) {
+      & {
+        width: 950px;
+      }
+    }
+    @media screen and (max-width: 960px) {
+      & {
+        width: 100%;
+        padding: 0 10px;
+      }
+    }
+  }
+}
+.minhaconta {
+  margin-top: 50px;
+  width: 100%;
+  flex-wrap: wrap;
+
+  form {
+    width: 100%;
+  }
+  fieldset {
+    border: 0;
+    margin-top: 20px;
+  }
+  legend {
+    padding: 10px 0;
+    color: #333e48;
+    font-weight: 600;
+    font-size: calc(min(1rem,7vw));
+  }
+  input[type="email"],
+  input[type="password"],
+  input[type="text"] {
+    width: 100%;
+    height: 45px;
+    border-radius: 25px;
+    border: 1px solid #cecece;
+    padding: 0 20px;
+    transition:  border .3s;
+    &:focus{
+      border: 1px solid #169ff0;
+    }
+  }
+  button{
+    background-color: #094641;
+    color: #ffffff;
+    user-select: none;
+    border: 0;
+    font-size: 1rem;
+    font-size: calc(min(1rem,7vw));
+    padding: 11.5px 24.5px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color .3s;
+    &:hover{
+      background-color: #111111;
+    }
+  }
+  a, p{
+    color: #333e48;
+    font-size: calc(min(.9rem,7vw));
+  }
+  p{
+    padding: 10px 0;
+    line-height: 22.5px;
+  }
+  .beneficios {
+    margin-top: 40px;
+    h4{
+      font-weight: 400;
+      color: #333e48;
+      padding-bottom: 10px;
+      font-size: calc(min(1.1rem,6.5vw));
+    }
+    ul{
+      list-style: none;
+      font-size: .9rem;
+      font-size: calc(min(.9rem,6vw));
+
+      li{
+        line-height: 30px;
+        color: #333e48;
+      }
+    }
+    li i {
+      color: #5cb85c;
+      font-size: 1rem;
+      font-size: calc(min(1rem, 6vw));
+      padding: 0 5px;
+    }
+  }
+}
+
+.minhaconta-titulo {
+  width: 100%;
+  height: 45px;
+  border-bottom: 1px solid #cecece;
+
+  h1 {
+    width: 100%;
+    height: 100%;
+    font-size: calc(min(1.5rem, 9vw));
+    font-weight: 400;
+    color: #333e48;
+    position: relative;
+    margin: 15px 0;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 20%;
+      border-bottom: 2px solid #094641;
+    }
+  }
+}
+.minhaconta-login,
+.minhaconta-cadastro {
+  width: 50%;
+  height: 100%;
+  padding: 0 20px;
+
+  @media screen and (max-width: 800px) {
+    &{
+      width: 600px;
+      padding: 10px!important;
+    }
+  }
+}
+.minhaconta-login{
+  padding-right: 8%;
+}
+.minhaconta-cadastro{
+  padding-left: 8%;
+position: relative;
+  @media screen and (min-width: 800px) {
+    &{
+    border-left: 1px solid #cecece;
+  }
+  &::after {
+    content: "OU";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: -17.5px;
+    top: 50%;
+    background-color: #ffffff;
+    transform: translateY(-50%);
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 1px solid #cecece;
+    font-size: .8rem;
+  }}
+}

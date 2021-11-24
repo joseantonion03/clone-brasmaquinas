@@ -1,0 +1,70 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    outline: 0;
+  }
+  html,
+  body {
+    height: 100%;
+  }
+  
+  img {
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  .inline-flex-center-display {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .flex-center-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .flex-start-between-display {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .flex-column-wrap {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  
+  .flex-start-display {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+  .flex-end-display {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .flex-startTwo-display {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .flex-between-display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .flex-evenly-display {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .flex-around-display {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
